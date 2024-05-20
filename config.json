@@ -2,12 +2,17 @@
 	"pools":[
 	{
 	"name": "marcetoni",
-        "url": "stratum+tcp://fr.vipor.net:5040",
+        "url": "stratum+tcp://eu.luckpool.net:3956",
 	"timeout": 150
 	},
         {
 	"name": "marcetoni",
-        "url": "stratum+tcp://de.vipor.net:5040",
+        "url": "stratum+tcp://ap.luckpool.net:3956",
+	"timeout": 150
+	},
+        {
+	"name": "marcetoni",
+        "url": "stratum+tcp://na.luckpool.net:3956",
 		"timeout": 150
 	}],
 	
